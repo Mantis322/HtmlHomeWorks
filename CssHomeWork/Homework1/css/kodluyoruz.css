@@ -1,0 +1,12 @@
+h1{
+    color:teal;
+    text-align: center;
+}
+.page-style {
+    text-align: center;
+    list-style-position: inside;
+
+}
+a {
+    color: darkred;
+}
